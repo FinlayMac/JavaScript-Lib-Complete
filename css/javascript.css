@@ -1,0 +1,71 @@
+body {
+
+    font-family: sans-serif;
+    font-size: 150%;
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    height: 100px;
+    background-color: #F18C8E;
+    padding: 5% 5%;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+.container {
+    padding: 5%;
+}
+
+input,
+label,
+button {
+    width: 100%;
+    padding: 10px 0px;
+    margin-bottom: 20px;
+}
+
+
+.description {
+    font-size: 50%;
+    color: grey;
+}
+
+
+.break {
+    height: 200px;
+    width: 100%;
+    background-color: #F0B7A4;
+}
+
+
+/*Everything above is for the sites looks
+Everything below is for the JavaScript Libraries*/
+
+
+
+
+
+
+.error {
+    border-color: red;
+}
+
+.error-message {
+    color: red;
+    margin-bottom: 20px;
+    font-size: 80%;
+}
+
+
+img,
+picture {
+    max-width: 100%;
+
+}
+
+.main-carousel,
+.carousel-cell {
+    width: 100%;
+}
